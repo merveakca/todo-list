@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    background: rgb(95, 140, 198);
+}
+
+.done{
+    text-decoration: line-through;
+}
